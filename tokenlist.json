@@ -7,12 +7,36 @@
     },
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
     "keywords": ["haven1", "h1", "tokens"],
-    "timestamp": "2024-06-01T00:00:00.000+00:00",
+    "timestamp": "2024-06-03T00:00:00.000+00:00",
     "tokens": [
       {
         "name": "hETH",
         "address": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
         "symbol": "hETH",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+      },
+      {
+        "name": "hBTC",
+        "address": "0x2Fb665F01464552F3CDA9359Cfb0ebA0628690b1",
+        "symbol": "hBTC",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+      },
+      {
+        "name": "hUSDC",
+        "address": "0x73dBaF6987B8B37cF201d20Db86AD48B89641017",
+        "symbol": "hUSDC",
+        "decimals": 6,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+      },
+      {
+        "name": "hLINK",
+        "address": "0xe3DEE16F1C4CDf9edFF38F66755eA6CC9f4047F3",
+        "symbol": "hLINK",
         "decimals": 18,
         "chainId": 810,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
