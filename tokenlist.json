@@ -23,7 +23,7 @@
         "symbol": "hBTC",
         "decimals": 18,
         "chainId": 810,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BTC/logo.png"
       },
       {
         "name": "hUSDC",
@@ -31,7 +31,7 @@
         "symbol": "hUSDC",
         "decimals": 6,
         "chainId": 810,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
       },
       {
         "name": "hLINK",
@@ -39,7 +39,7 @@
         "symbol": "hLINK",
         "decimals": 18,
         "chainId": 810,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
       }
     ]
   }
