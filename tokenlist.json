@@ -23,7 +23,7 @@
         "symbol": "hBTC",
         "decimals": 18,
         "chainId": 810,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/BTC/logo.png"
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
       },
       {
         "name": "hUSDC",
@@ -40,7 +40,16 @@
         "decimals": 18,
         "chainId": 810,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
+      },
+      {
+        "name": "WH1",
+        "address": "0x584C31C392c695dcD6ef2d4884937539119cfCFc",
+        "symbol": "WH1",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
       }
+
     ]
   }
   
