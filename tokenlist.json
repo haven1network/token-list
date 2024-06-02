@@ -1,26 +1,22 @@
 {
-    "HLINK": {
-      "nativeNetwork": "haven1",
-      "nativeContractAddress": "0xe3DEE16F1C4CDf9edFF38F66755eA6CC9f4047F3",
-      "denomination": 18,
-      "chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
-      "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png",
-      "coingeckoId": ""
+    "name": "Haven1 Token List",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 0
     },
-    "HETH": {
-        "nativeNetwork": "haven1",
-        "nativeContractAddress": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
-        "denomination": 18,
-        "chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
-        "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png",
-        "coingeckoId": ""
-    },
-    "HUSDC": {
-        "nativeNetwork": "haven1",
-        "nativeContractAddress": "0x73dBaF6987B8B37cF201d20Db86AD48B89641017",
-        "denomination": 6,
-        "chainlinkFeedAddress": "0x0000000000000000000000000000000000000000",
-        "logo": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png",
-        "coingeckoId": ""
-    }
-}
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+    "keywords": ["haven1", "h1", "tokens"],
+    "timestamp": "2024-06-03T00:00:00.000+00:00",
+    "tokens": [
+      {
+        "name": "hETH",
+        "address": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
+        "symbol": "hETH",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+      }
+    ]
+  }
+  
