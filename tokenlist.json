@@ -10,6 +10,14 @@
     "timestamp": "2024-06-03T00:00:00.000+00:00",
     "tokens": [
       {
+        "name": "H1",
+        "address": "0x0000000000000000000000000000000000000000",
+        "symbol": "H1",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
+      },
+      {
         "name": "hETH",
         "address": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
         "symbol": "hETH",
@@ -23,7 +31,7 @@
         "symbol": "hBTC",
         "decimals": 18,
         "chainId": 810,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WBTC/logo.png"
+        "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
       },
       {
         "name": "hUSDC",
@@ -40,6 +48,14 @@
         "decimals": 18,
         "chainId": 810,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
+      },
+      {
+        "name": "hAVAX",
+        "address": "0xEd27f75440C075A594e4E03673f8698fDD7d744D",
+        "symbol": "hAVAX",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
       },
       {
         "name": "WH1",
