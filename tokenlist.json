@@ -10,14 +10,6 @@
     "timestamp": "2024-06-03T00:00:00.000+00:00",
     "tokens": [
       {
-        "name": "H1",
-        "address": null,
-        "symbol": "H1",
-        "decimals": 18,
-        "chainId": 810,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
-      },
-      {
         "name": "hETH",
         "address": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
         "symbol": "hETH",
