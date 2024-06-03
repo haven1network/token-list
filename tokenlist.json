@@ -11,7 +11,7 @@
     "tokens": [
       {
         "name": "H1",
-        "address": "0x0000000000000000000000000000000000000000",
+        "address": null,
         "symbol": "H1",
         "decimals": 18,
         "chainId": 810,
