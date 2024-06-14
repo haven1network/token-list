@@ -21,7 +21,7 @@
         "name": "hBTC",
         "address": "0x2Fb665F01464552F3CDA9359Cfb0ebA0628690b1",
         "symbol": "hBTC",
-        "decimals": 18,
+        "decimals": 8,
         "chainId": 810,
         "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
       },
