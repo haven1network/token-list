@@ -18,6 +18,14 @@
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
       },
       {
+        "name": "hUSDT",
+        "address": "0x3F4b531b19f176Ef05258c33974aCF1Bc2C708E4",
+        "symbol": "hUSDT",
+        "decimals": 6,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+      },
+      {
         "name": "hBTC",
         "address": "0x2Fb665F01464552F3CDA9359Cfb0ebA0628690b1",
         "symbol": "hBTC",
