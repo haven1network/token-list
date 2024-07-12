@@ -3,11 +3,11 @@
     "version": {
       "major": 1,
       "minor": 0,
-      "patch": 3
+      "patch": 4
     },
     "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
     "keywords": ["haven1", "h1", "tokens"],
-    "timestamp": "2024-07-09T11:00:00.000+00:00",
+    "timestamp": "2024-07-10T11:00:00.000+00:00",
     "tokens": [
       {
         "name": "hETH",
@@ -64,32 +64,7 @@
         "decimals": 18,
         "chainId": 810,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
-      },
-      {
-        "name": "SILVER",
-        "address": "0xEe2c6465A17325aD2818053b1eca9cc896D61325",
-        "symbol": "SILVER",
-        "decimals": 18,
-        "chainId": 810,
-        "logoURI": ""
-      },
-      {
-        "name": "GOLD",
-        "address": "0x7184138C866258f56ca78520951806Dda980c4D0",
-        "symbol": "GOLD",
-        "decimals": 18,
-        "chainId": 810,
-        "logoURI": ""
-      },
-      {
-        "name": "PLATINUM",
-        "address": "0xCa17c34556f213aE75FA92252CE27aC5617ABb23",
-        "symbol": "PLATINUM",
-        "decimals": 18,
-        "chainId": 810,
-        "logoURI": ""
       }
-
     ]
   }
   
