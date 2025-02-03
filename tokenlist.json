@@ -88,6 +88,22 @@
         "decimals": 18,
         "chainId": 810,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/PLATINUM.png"
+      },
+      {
+        "name": "cbETH",
+        "address": "0x808422B173E408D992d30071e80253d047BfEc63",
+        "symbol": "cbETH",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
+      },
+      {
+        "name": "hsETH",
+        "address": "0x5F5D88D6cD5A772E82403b346754B7a0Cf535576",
+        "symbol": "hsETH",
+        "decimals": 18,
+        "chainId": 810,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
       }
     ]
   }
