@@ -1,0 +1,70 @@
+{
+    "name": "Haven1 Token List",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "patch": 6
+    },
+    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+    "keywords": ["haven1", "h1", "tokens"],
+    "timestamp": "2025-02-02T11:00:00.000+00:00",
+    "tokens": [
+      {
+        "name": "hETH",
+        "address": "0x9E33501440DDCA26b6649D79fDb06FC6b413ceB0",
+        "symbol": "hETH",
+        "decimals": 18,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
+      },
+      {
+        "name": "hUSDT",
+        "address": "0xEdBfAAb2C11D5a7485Ea7F765023C6988e90ABBE",
+        "symbol": "hUSDT",
+        "decimals": 6,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+      },
+      {
+        "name": "hUSDC",
+        "address": "0x54F8F28ED3489416d3B05ccAf8d5DDaCddc495bb",
+        "symbol": "hUSDC",
+        "decimals": 6,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+      },
+      {
+        "name": "WH1",
+        "address": "0xb7b057C116bF1412696dcB232ABF5fB473EEC37B",
+        "symbol": "WH1",
+        "decimals": 18,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
+      },
+      {
+        "name": "cbETH",
+        "address": "0x5212963899B7da27F1A3A9e34367AecACE0Bfd32",
+        "symbol": "cbETH",
+        "decimals": 18,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
+      },
+      {
+        "name": "hsETH",
+        "address": "0xaD3986688caa696af89A82656E102629eC98645F",
+        "symbol": "hsETH",
+        "decimals": 18,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
+      },
+      {
+        "name": "esH1",
+        "address": "0x2f8d682d92314f152904845D9C42963a844Bca80",
+        "symbol": "esH1",
+        "decimals": 18,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
+      }
+    ]
+  }
+  
