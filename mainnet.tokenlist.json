@@ -42,9 +42,9 @@
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
       },
       {
-        "name": "cbETH",
-        "address": "0x5212963899B7da27F1A3A9e34367AecACE0Bfd32",
-        "symbol": "cbETH",
+        "name": "hcbETH",
+        "address": "0x27f664485b8488e57be3c2Bda11F5AA1F570d859",
+        "symbol": "hcbETH",
         "decimals": 18,
         "chainId": 8811,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
