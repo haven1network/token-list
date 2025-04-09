@@ -65,14 +65,6 @@
         "chainId": 8811,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
       },
-      {
-        "name": "esH1",
-        "address": "0xA69f2FCf9ACE993Fed9F49a1fd09b1Abfc0473A6",
-        "symbol": "esH1",
-        "decimals": 18,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
-      }
     ]
   }
   
