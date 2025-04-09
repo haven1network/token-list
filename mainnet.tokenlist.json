@@ -11,7 +11,7 @@
     "tokens": [
       {
         "name": "hETH",
-        "address": "0x9E33501440DDCA26b6649D79fDb06FC6b413ceB0",
+        "address": "0xad3506e1f0B8E773AE9efDd47038721755e95E30",
         "symbol": "hETH",
         "decimals": 18,
         "chainId": 8811,
@@ -19,7 +19,7 @@
       },
       {
         "name": "hUSDT",
-        "address": "0xEdBfAAb2C11D5a7485Ea7F765023C6988e90ABBE",
+        "address": "0x0a03e44a7517f6239eb8cd6DB83c8C9B51a06CEc",
         "symbol": "hUSDT",
         "decimals": 6,
         "chainId": 8811,
@@ -27,7 +27,7 @@
       },
       {
         "name": "hUSDC",
-        "address": "0x54F8F28ED3489416d3B05ccAf8d5DDaCddc495bb",
+        "address": "0x98A084bdd0b892ac201D08B20f9EF7c81910Dd43",
         "symbol": "hUSDC",
         "decimals": 6,
         "chainId": 8811,
@@ -35,7 +35,7 @@
       },
       {
         "name": "WH1",
-        "address": "0xb7b057C116bF1412696dcB232ABF5fB473EEC37B",
+        "address": "0xB041be50694f3018912c18c710e7BBB931002598",
         "symbol": "WH1",
         "decimals": 18,
         "chainId": 8811,
@@ -43,15 +43,23 @@
       },
       {
         "name": "hcbETH",
-        "address": "0x27f664485b8488e57be3c2Bda11F5AA1F570d859",
+        "address": "0xcA407d8e1355D84b379a63bdD2C1b41f03D20298",
         "symbol": "hcbETH",
         "decimals": 18,
         "chainId": 8811,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
       },
       {
+        "name": "hcbBTC",
+        "address": "0xcA407d8e1355D84b379a63bdD2C1b41f03D20298",
+        "symbol": "hcbBTC",
+        "decimals": 8,
+        "chainId": 8811,
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbbtc.webp"
+      },
+      {
         "name": "hsETH",
-        "address": "0xaD3986688caa696af89A82656E102629eC98645F",
+        "address": "0x06CBeC6Bbc45151c132CECB983D7723e0a9E9838",
         "symbol": "hsETH",
         "decimals": 18,
         "chainId": 8811,
@@ -59,7 +67,7 @@
       },
       {
         "name": "esH1",
-        "address": "0x2f8d682d92314f152904845D9C42963a844Bca80",
+        "address": "0xA69f2FCf9ACE993Fed9F49a1fd09b1Abfc0473A6",
         "symbol": "esH1",
         "decimals": 18,
         "chainId": 8811,
