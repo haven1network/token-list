@@ -55,7 +55,7 @@
         "symbol": "hcbBTC",
         "decimals": 8,
         "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbBTC.png"
+        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbbtc.webp"
       },
       {
         "name": "hsETH",
