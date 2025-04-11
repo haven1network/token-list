@@ -11,7 +11,7 @@
     "tokens": [
       {
         "name": "hETH",
-        "address": "0xad3506e1f0B8E773AE9efDd47038721755e95E30",
+        "address": "0xa4E7604d7A3f9f7A2eE79723cae4122a72Bc6984",
         "symbol": "hETH",
         "decimals": 18,
         "chainId": 8811,
@@ -19,7 +19,7 @@
       },
       {
         "name": "hUSDT",
-        "address": "0x0a03e44a7517f6239eb8cd6DB83c8C9B51a06CEc",
+        "address": "0x73A6258c102c636A1b54F400637018cE0E984825",
         "symbol": "hUSDT",
         "decimals": 6,
         "chainId": 8811,
@@ -27,7 +27,7 @@
       },
       {
         "name": "hUSDC",
-        "address": "0x98A084bdd0b892ac201D08B20f9EF7c81910Dd43",
+        "address": "0x33B67ED2b733576572C19D744a365181d97f936c",
         "symbol": "hUSDC",
         "decimals": 6,
         "chainId": 8811,
@@ -43,7 +43,7 @@
       },
       {
         "name": "hcbETH",
-        "address": "0xcA407d8e1355D84b379a63bdD2C1b41f03D20298",
+        "address": "0x0A7a6384E0640C3Efd5587635E201cb960819456",
         "symbol": "hcbETH",
         "decimals": 18,
         "chainId": 8811,
@@ -51,7 +51,7 @@
       },
       {
         "name": "hcbBTC",
-        "address": "0xcA407d8e1355D84b379a63bdD2C1b41f03D20298",
+        "address": "0x61cd868eE83319dbc16616D34084904a369D5338",
         "symbol": "hcbBTC",
         "decimals": 8,
         "chainId": 8811,
@@ -59,7 +59,7 @@
       },
       {
         "name": "hsETH",
-        "address": "0x06CBeC6Bbc45151c132CECB983D7723e0a9E9838",
+        "address": "0x750008544Ce5a197eA88A6679962ADA79210c194",
         "symbol": "hsETH",
         "decimals": 18,
         "chainId": 8811,
