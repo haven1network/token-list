@@ -11,7 +11,7 @@
     "tokens": [
       {
         "name": "hETH",
-        "address": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
+        "address": "0xc78d99244Cf9885187BcE49a651D6aB5caD0C042",
         "symbol": "hETH",
         "decimals": 18,
         "chainId": 8110,
@@ -19,7 +19,7 @@
       },
       {
         "name": "hUSDT",
-        "address": "0x3F4b531b19f176Ef05258c33974aCF1Bc2C708E4",
+        "address": "0xf4e5d5f36d58Df84a916F816D65314476c98E81d",
         "symbol": "hUSDT",
         "decimals": 6,
         "chainId": 8110,
@@ -27,7 +27,7 @@
       },
       {
         "name": "hBTC",
-        "address": "0x2Fb665F01464552F3CDA9359Cfb0ebA0628690b1",
+        "address": "0x21d44FeDE125C24a95699470Dd7EF8ab246016C4",
         "symbol": "hBTC",
         "decimals": 8,
         "chainId": 8110,
@@ -35,7 +35,7 @@
       },
       {
         "name": "hUSDC",
-        "address": "0x73dBaF6987B8B37cF201d20Db86AD48B89641017",
+        "address": "0x61DC72dde37915C918AFE1032CF69E1C1EEC0D60",
         "symbol": "hUSDC",
         "decimals": 6,
         "chainId": 8110,
@@ -43,7 +43,7 @@
       },
       {
         "name": "hLINK",
-        "address": "0xe3DEE16F1C4CDf9edFF38F66755eA6CC9f4047F3",
+        "address": "0xB5dE9C73C11D79A1E9d03cBf6ca7F2e25a63d26C",
         "symbol": "hLINK",
         "decimals": 18,
         "chainId": 8110,
@@ -59,7 +59,7 @@
       },
       {
         "name": "WH1",
-        "address": "0x584C31C392c695dcD6ef2d4884937539119cfCFc",
+        "address": "0x3A4376273545B3f4261Bf42f221567A393C9871D",
         "symbol": "WH1",
         "decimals": 18,
         "chainId": 8110,
@@ -67,7 +67,7 @@
       },
       {
         "name": "SILVER",
-        "address": "0xEe2c6465A17325aD2818053b1eca9cc896D61325",
+        "address": "0x8E5fC1e40C5B0D1d3AAF5CeF87BEc1972CBA0327",
         "symbol": "SILVER",
         "decimals": 18,
         "chainId": 8110,
@@ -75,7 +75,7 @@
       },
       {
         "name": "GOLD",
-        "address": "0x7184138C866258f56ca78520951806Dda980c4D0",
+        "address": "0xb5D519a28Fa31fB8406E89908320AAB2d9cF20eb",
         "symbol": "GOLD",
         "decimals": 18,
         "chainId": 8110,
@@ -83,23 +83,23 @@
       },
       {
         "name": "PLATINUM",
-        "address": "0xCa17c34556f213aE75FA92252CE27aC5617ABb23",
+        "address": "0x9fF737f816604892d1d020a8caa650427c0fa7E3",
         "symbol": "PLATINUM",
         "decimals": 18,
         "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/PLATINUM.png"
       },
       {
-        "name": "cbETH",
-        "address": "0x808422B173E408D992d30071e80253d047BfEc63",
-        "symbol": "cbETH",
+        "name": "hcbETH",
+        "address": "0x55221dc49bFDA77413E9d101f5Ee7Bc7bDC362fE",
+        "symbol": "hcbETH",
         "decimals": 18,
         "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
       },
       {
         "name": "hsETH",
-        "address": "0x5F5D88D6cD5A772E82403b346754B7a0Cf535576",
+        "address": "0x49E92596f93b2a65aa043871a5c7Bb4Dca7d6C94",
         "symbol": "hsETH",
         "decimals": 18,
         "chainId": 8110,
