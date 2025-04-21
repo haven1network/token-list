@@ -14,7 +14,7 @@
         "address": "0xd6e17Ea2F27E1ad83fD41AC5D1A3cb96CA5FC0Ac",
         "symbol": "hETH",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
       },
       {
@@ -22,7 +22,7 @@
         "address": "0x3F4b531b19f176Ef05258c33974aCF1Bc2C708E4",
         "symbol": "hUSDT",
         "decimals": 6,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
       },
       {
@@ -30,7 +30,7 @@
         "address": "0x2Fb665F01464552F3CDA9359Cfb0ebA0628690b1",
         "symbol": "hBTC",
         "decimals": 8,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
       },
       {
@@ -38,7 +38,7 @@
         "address": "0x73dBaF6987B8B37cF201d20Db86AD48B89641017",
         "symbol": "hUSDC",
         "decimals": 6,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
       },
       {
@@ -46,7 +46,7 @@
         "address": "0xe3DEE16F1C4CDf9edFF38F66755eA6CC9f4047F3",
         "symbol": "hLINK",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
       },
       {
@@ -54,7 +54,7 @@
         "address": "0xEd27f75440C075A594e4E03673f8698fDD7d744D",
         "symbol": "hAVAX",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
       },
       {
@@ -62,7 +62,7 @@
         "address": "0x584C31C392c695dcD6ef2d4884937539119cfCFc",
         "symbol": "WH1",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
       },
       {
@@ -70,7 +70,7 @@
         "address": "0xEe2c6465A17325aD2818053b1eca9cc896D61325",
         "symbol": "SILVER",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/SILVER.png"
       },
       {
@@ -78,7 +78,7 @@
         "address": "0x7184138C866258f56ca78520951806Dda980c4D0",
         "symbol": "GOLD",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/GOLD.png"
       },
       {
@@ -86,7 +86,7 @@
         "address": "0xCa17c34556f213aE75FA92252CE27aC5617ABb23",
         "symbol": "PLATINUM",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/PLATINUM.png"
       },
       {
@@ -94,7 +94,7 @@
         "address": "0x808422B173E408D992d30071e80253d047BfEc63",
         "symbol": "cbETH",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
       },
       {
@@ -102,7 +102,7 @@
         "address": "0x5F5D88D6cD5A772E82403b346754B7a0Cf535576",
         "symbol": "hsETH",
         "decimals": 18,
-        "chainId": 810,
+        "chainId": 8110,
         "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
       }
     ]
