@@ -50,14 +50,6 @@
         "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
       },
       {
-        "name": "hAVAX",
-        "address": "0xEd27f75440C075A594e4E03673f8698fDD7d744D",
-        "symbol": "hAVAX",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://assets.coingecko.com/coins/images/15075/thumb/wrapped-avax.png?1696514734"
-      },
-      {
         "name": "WH1",
         "address": "0x3A4376273545B3f4261Bf42f221567A393C9871D",
         "symbol": "WH1",
