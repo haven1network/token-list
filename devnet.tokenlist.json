@@ -1,102 +1,105 @@
 {
-    "name": "Haven1 Token List",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 6
+  "name": "Haven1 Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 6
+  },
+  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+  "keywords": [
+    "haven1",
+    "h1",
+    "tokens"
+  ],
+  "timestamp": "2025-02-02T11:00:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Haven1 Ethereum",
+      "address": "0xc78d99244Cf9885187BcE49a651D6aB5caD0C042",
+      "symbol": "hETH",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
     },
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
-    "keywords": ["haven1", "h1", "tokens"],
-    "timestamp": "2025-02-02T11:00:00.000+00:00",
-    "tokens": [
-      {
-        "name": "hETH",
-        "address": "0xc78d99244Cf9885187BcE49a651D6aB5caD0C042",
-        "symbol": "hETH",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
-      },
-      {
-        "name": "hUSDT",
-        "address": "0xf4e5d5f36d58Df84a916F816D65314476c98E81d",
-        "symbol": "hUSDT",
-        "decimals": 6,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
-      },
-      {
-        "name": "hBTC",
-        "address": "0x21d44FeDE125C24a95699470Dd7EF8ab246016C4",
-        "symbol": "hBTC",
-        "decimals": 8,
-        "chainId": 8110,
-        "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
-      },
-      {
-        "name": "hUSDC",
-        "address": "0x61DC72dde37915C918AFE1032CF69E1C1EEC0D60",
-        "symbol": "hUSDC",
-        "decimals": 6,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
-      },
-      {
-        "name": "hLINK",
-        "address": "0xB5dE9C73C11D79A1E9d03cBf6ca7F2e25a63d26C",
-        "symbol": "hLINK",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
-      },
-      {
-        "name": "WH1",
-        "address": "0x835DAae6ee1cEB6Efca3f2e9069066F718E3d62F",
-        "symbol": "WH1",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
-      },
-      {
-        "name": "SILVER",
-        "address": "0x8E5fC1e40C5B0D1d3AAF5CeF87BEc1972CBA0327",
-        "symbol": "SILVER",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/SILVER.png"
-      },
-      {
-        "name": "GOLD",
-        "address": "0xb5D519a28Fa31fB8406E89908320AAB2d9cF20eb",
-        "symbol": "GOLD",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/GOLD.png"
-      },
-      {
-        "name": "PLATINUM",
-        "address": "0x9fF737f816604892d1d020a8caa650427c0fa7E3",
-        "symbol": "PLATINUM",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/PLATINUM.png"
-      },
-      {
-        "name": "hcbETH",
-        "address": "0x55221dc49bFDA77413E9d101f5Ee7Bc7bDC362fE",
-        "symbol": "hcbETH",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
-      },
-      {
-        "name": "hsETH",
-        "address": "0x49E92596f93b2a65aa043871a5c7Bb4Dca7d6C94",
-        "symbol": "hsETH",
-        "decimals": 18,
-        "chainId": 8110,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
-      }
-    ]
-  }
-  
+    {
+      "name": "Haven1 USDT",
+      "address": "0xf4e5d5f36d58Df84a916F816D65314476c98E81d",
+      "symbol": "hUSDT",
+      "decimals": 6,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+    },
+    {
+      "name": "Haven1 Bitcoin",
+      "address": "0x21d44FeDE125C24a95699470Dd7EF8ab246016C4",
+      "symbol": "hBTC",
+      "decimals": 8,
+      "chainId": 8110,
+      "logoURI": "https://ethereum-optimism.github.io/data/WBTC/logo.svg"
+    },
+    {
+      "name": "Haven1 USD Coin",
+      "address": "0x61DC72dde37915C918AFE1032CF69E1C1EEC0D60",
+      "symbol": "hUSDC",
+      "decimals": 6,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+    },
+    {
+      "name": "Haven1 Chainlink",
+      "address": "0xB5dE9C73C11D79A1E9d03cBf6ca7F2e25a63d26C",
+      "symbol": "hLINK",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/LINK/logo.png"
+    },
+    {
+      "name": "Wrapped H1",
+      "address": "0x835DAae6ee1cEB6Efca3f2e9069066F718E3d62F",
+      "symbol": "WH1",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
+    },
+    {
+      "name": "Silver Token",
+      "address": "0x8E5fC1e40C5B0D1d3AAF5CeF87BEc1972CBA0327",
+      "symbol": "SILVER",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/SILVER.png"
+    },
+    {
+      "name": "Gold Token",
+      "address": "0xb5D519a28Fa31fB8406E89908320AAB2d9cF20eb",
+      "symbol": "GOLD",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/GOLD.png"
+    },
+    {
+      "name": "Platinum Token",
+      "address": "0x9fF737f816604892d1d020a8caa650427c0fa7E3",
+      "symbol": "PLATINUM",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/PLATINUM.png"
+    },
+    {
+      "name": "Bridged Coinbase Wrapped Staked ETH",
+      "address": "0x55221dc49bFDA77413E9d101f5Ee7Bc7bDC362fE",
+      "symbol": "hcbETH",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
+    },
+    {
+      "name": "Haven Staked ETH",
+      "address": "0x49E92596f93b2a65aa043871a5c7Bb4Dca7d6C94",
+      "symbol": "hsETH",
+      "decimals": 18,
+      "chainId": 8110,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
+    }
+  ]
+}

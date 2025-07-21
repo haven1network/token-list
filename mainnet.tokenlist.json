@@ -1,70 +1,73 @@
 {
-    "name": "Haven1 Token List",
-    "version": {
-      "major": 1,
-      "minor": 0,
-      "patch": 6
+  "name": "Haven1 Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 6
+  },
+  "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
+  "keywords": [
+    "haven1",
+    "h1",
+    "tokens"
+  ],
+  "timestamp": "2025-02-02T11:00:00.000+00:00",
+  "tokens": [
+    {
+      "name": "Haven1 Bridged Wrapped ETH",
+      "address": "0xa4E7604d7A3f9f7A2eE79723cae4122a72Bc6984",
+      "symbol": "hETH",
+      "decimals": 18,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
     },
-    "logoURI": "https://raw.githubusercontent.com/plasmadlt/token-list/master/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c.png",
-    "keywords": ["haven1", "h1", "tokens"],
-    "timestamp": "2025-02-02T11:00:00.000+00:00",
-    "tokens": [
-      {
-        "name": "hETH",
-        "address": "0xa4E7604d7A3f9f7A2eE79723cae4122a72Bc6984",
-        "symbol": "hETH",
-        "decimals": 18,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/WETH/logo.png"
-      },
-      {
-        "name": "hUSDT",
-        "address": "0x73A6258c102c636A1b54F400637018cE0E984825",
-        "symbol": "hUSDT",
-        "decimals": 6,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
-      },
-      {
-        "name": "hUSDC",
-        "address": "0x33B67ED2b733576572C19D744a365181d97f936c",
-        "symbol": "hUSDC",
-        "decimals": 6,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
-      },
-      {
-        "name": "WH1",
-        "address": "0xB041be50694f3018912c18c710e7BBB931002598",
-        "symbol": "WH1",
-        "decimals": 18,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
-      },
-      {
-        "name": "hcbETH",
-        "address": "0x0A7a6384E0640C3Efd5587635E201cb960819456",
-        "symbol": "hcbETH",
-        "decimals": 18,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
-      },
-      {
-        "name": "hcbBTC",
-        "address": "0x61cd868eE83319dbc16616D34084904a369D5338",
-        "symbol": "hcbBTC",
-        "decimals": 8,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbbtc.webp"
-      },
-      {
-        "name": "hsETH",
-        "address": "0x750008544Ce5a197eA88A6679962ADA79210c194",
-        "symbol": "hsETH",
-        "decimals": 18,
-        "chainId": 8811,
-        "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
-      }
-    ]
-  }
-  
+    {
+      "name": "Haven1 Bridged USDT ",
+      "address": "0x73A6258c102c636A1b54F400637018cE0E984825",
+      "symbol": "hUSDT",
+      "decimals": 6,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
+    },
+    {
+      "name": "Haven1 Bridged USDC",
+      "address": "0x33B67ED2b733576572C19D744a365181d97f936c",
+      "symbol": "hUSDC",
+      "decimals": 6,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
+    },
+    {
+      "name": "Wrapped H1",
+      "address": "0xB041be50694f3018912c18c710e7BBB931002598",
+      "symbol": "WH1",
+      "decimals": 18,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/H1.png"
+    },
+    {
+      "name": "Haven1 Bridged Coinbase Wrapped Staked ETH",
+      "address": "0x0A7a6384E0640C3Efd5587635E201cb960819456",
+      "symbol": "hcbETH",
+      "decimals": 18,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbETH.png"
+    },
+    {
+      "name": "Haven1 Bridged Coinbase Wrapped BTC",
+      "address": "0x61cd868eE83319dbc16616D34084904a369D5338",
+      "symbol": "hcbBTC",
+      "decimals": 8,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/cbbtc.webp"
+    },
+    {
+      "name": "Bridged Haven1 Staked ETH",
+      "address": "0x750008544Ce5a197eA88A6679962ADA79210c194",
+      "symbol": "hsETH",
+      "decimals": 18,
+      "chainId": 8811,
+      "logoURI": "https://raw.githubusercontent.com/haven1network/token-list/main/logos/hsETH.png"
+    }
+  ]
+}
